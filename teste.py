@@ -13,18 +13,14 @@ print("---------------------------------/n");
 print("Coloque o tempero  e mexa e esperar");
 print("---------------------------------/n");
 print("comer");
+print("ola");
 
-	#print("Coloque O miojo  na panela com agua no fogao/n");
+function Ola(){
+           print("iola");
 
-	#print("---------------------------------/n");
+        }
 
-	#print('Coloque o tempero  e mexa e esperar /n');
-
-	#print("---------------------------------/n");
-
-	#("So comer");
-
-
+print(olar());
 
 
 
